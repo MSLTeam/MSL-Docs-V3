@@ -167,6 +167,8 @@ MSL是一款 ==开源软件== ，代码 ==100%公开==，请您放心使用。
 
 <LinkCard title="外置登录配置教程" href="/docs/advanced/yggdrasil/" icon="cloud" description="使用外置登录（皮肤站）的方式恢复皮肤的显示。" />
 
+<LinkCard title="SkinsRestorer插件" href="https://modrinth.com/plugin/skinsrestorer" icon="shirt" description="使用SkinsRestorer插件自定义或修复皮肤的显示。<br>仅需支持插件的服务端安装。" />
+
 <LinkCard title="万用皮肤补丁" href="https://www.mcmod.cn/class/883.html" icon="shirt" description="使用万用皮肤补丁模组恢复皮肤显示。<br>此模组仅允许客户端安装，且仅对装了本模组的玩家互相可见。" />
 
 ## 单人存档（地图）如何迁移到服务器
